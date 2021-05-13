@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
+
 <div class="position-relative">
     <div class="Box mt-4">
         <div class="Box-body p-4">
@@ -25,7 +26,7 @@ Here are some ideas to get you started:
                 </div>
             </div>
             <article class="markdown-body entry-content container-lg f5" itemprop="text">
-                <div class="Box pinned-item-list-item d-flex p-3 width-full public source" style="max-width:100%;width: 48%;">
+                <div class="Box pinned-item-list-item d-flex p-3 width-full public source mb-3 d-flex flex-content-stretch col-12 col-md-6 col-lg-6" style="max-width:100%;width: 48%;">
                     <div class="pinned-item-list-item-content">
                         <p class="pinned-item-desc color-text-secondary text-small d-block mt-2 mb-3">
                             VasilSlavchev GitHub Stats
@@ -37,7 +38,7 @@ Here are some ideas to get you started:
                         </p>
                     </div>
                 </div>
-                <div class="Box pinned-item-list-item d-flex p-3 width-full public source" style="max-width:100%;width: 48%;">
+                <div class="Box pinned-item-list-item d-flex p-3 width-full public source mb-3 d-flex flex-content-stretch col-12 col-md-6 col-lg-6" style="max-width:100%;width: 48%;">
                     <div class="pinned-item-list-item-content">
                         <p class="pinned-item-desc color-text-secondary text-small d-block mt-2 mb-3">
                             Most Used Languages
