@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div class="tw-flex tw-flex-col tw-overflow-visible tw-w-full tw-h-full tw-flex tw-flex-col tw-justify-between">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasilSlavchev&amp;layout=compact" alt="VasilSlavchev Most Used Languages">
+</div>
+                
+<div class="tw-flex tw-flex-col tw-overflow-visible tw-w-full tw-h-full tw-flex tw-flex-col tw-justify-between">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasilSlavchev&amp;layout=compact" alt="VasilSlavchev Most Used Languages">
+</div>
