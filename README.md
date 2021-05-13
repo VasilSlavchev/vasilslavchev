@@ -39,8 +39,14 @@ Here are some ideas to get you started:
                 <div class="d-flex flex-justify-between">
                     <div class="text-mono text-small mb-3 text-bold flex-auto min-width-0">
                         <p>You can read more <span class="color-text-tertiary"> about me </span>
-                            <a href="https://VasilSlavchev.info" class="no-underline Link--primary">here</a>.
+                            <a href="https://VasilSlavchev.info" class="no-underline Link--primary">here</a> :)
                         <p>
+                        <p>
+                            🔭 I’m currently working on several different projects.
+                        </p>
+                        <p>
+                            🌱 I’m currently learning amazing front-end frameworks.
+                        </p>
                     </div>
                 </div>
             </article>
