@@ -17,11 +17,6 @@ Here are some ideas to get you started:
 
 <div class="Box pinned-item-list-item d-flex p-3 width-full public source">
     <div class="pinned-item-list-item-content">
-        <div class="d-flex width-full flex-items-center position-relative">
-            <a href="/VasilSlavchev/projects" class="text-bold flex-auto min-width-0 h6">
-                <span class="repo" title="projects">Most Used Languages</span>
-            </a>
-        </div>
         <p class="pinned-item-desc color-text-secondary text-small d-block mt-2 mb-3">
             Most Used Languages
         </p>
@@ -34,11 +29,6 @@ Here are some ideas to get you started:
 </div>
 <div class="Box pinned-item-list-item d-flex p-3 width-full public source">
     <div class="pinned-item-list-item-content">
-        <div class="d-flex width-full flex-items-center position-relative">
-            <a href="/VasilSlavchev/projects" class="text-bold flex-auto min-width-0 h6">
-                <span class="repo" title="projects">VasilSlavchev GitHub Stats</span>
-            </a>
-        </div>
         <p class="pinned-item-desc color-text-secondary text-small d-block mt-2 mb-3">
             VasilSlavchev GitHub Stats
         </p>
