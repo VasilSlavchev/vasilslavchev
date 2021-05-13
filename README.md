@@ -26,6 +26,7 @@ Here are some ideas to get you started:
                         </a>
                     </p>
                 </div>
+                <!-- 
                 <div class="pinned-item-list-item-content">
                     <p class="pinned-item-desc color-text-secondary text-small d-block mt-2 mb-3">
                         Most Used Languages
@@ -36,6 +37,7 @@ Here are some ideas to get you started:
                         </a>
                     </p>
                 </div>
+                 -->
                 <blockquote>
                 <p>Wubba Lubba Dub Dub!</p>
                 </blockquote>
