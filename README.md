@@ -19,7 +19,7 @@ Here are some ideas to get you started:
                 <div class="pinned-item-list-item-content">
                     <p class="mb-0 f6 color-text-secondary">
                         <a href="/VasilSlavchev/projects/stargazers" class="pinned-item-meta Link--muted ">
-                            <img src="https://github-readme-stats.vercel.app/api?username=VasilSlavchev&amp;show_icons=true" alt="VasilSlavchev GitHub Stats">
+                            <img src="https://github-readme-stats.vercel.app/api?username=VasilSlavchev&amp;show_icons=true" alt="VasilSlavchev GitHub Stats" align="right">
                         </a>
                     </p>
                 </div>
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
                         <a href="/VasilSlavchev/projects/stargazers" class="pinned-item-meta Link--muted ">
                             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasilSlavchev&amp;layout=compact" alt="VasilSlavchev Most Used Languages">
                         </a>
-                    </p>
+                    </p> 
                 </div>
                  -->
                 <blockquote>
