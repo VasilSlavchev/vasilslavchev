@@ -26,6 +26,8 @@ Here are some ideas to get you started:
             </a>
         </p>
     </div>
+</div>
+<div class="Box pinned-item-list-item d-flex p-3 width-full public source">
     <div class="pinned-item-list-item-content">
         <p class="pinned-item-desc color-text-secondary text-small d-block mt-2 mb-3">
             VasilSlavchev GitHub Stats
