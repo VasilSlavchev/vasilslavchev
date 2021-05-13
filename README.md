@@ -17,9 +17,9 @@ Here are some ideas to get you started:
         <div class="Box-body p-4">
             <article class="markdown-body entry-content container-lg f5" itemprop="text">
                 <p class="mb-0 f6 color-text-secondary">
-                    <a href="https://VasilSlavchev.info" class="pinned-item-meta Link--muted ">
+<!--                     <a href="https://VasilSlavchev.info" class="pinned-item-meta Link--muted "> -->
                         <img src="https://github-readme-stats.vercel.app/api?username=VasilSlavchev&amp;show_icons=true" alt="VasilSlavchev GitHub Stats" align="right">
-                    </a>
+<!--                     </a> -->
                 </p>
                 <!-- 
                 <div class="pinned-item-list-item-content">
