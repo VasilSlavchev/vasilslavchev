@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 <div class="position-relative">
     <div class="Box mt-4">
         <div class="Box-body p-4">
+            <blockquote>
+            <p>Wubba Lubba Dub Dub!</p>
+            </blockquote>
             <div class="d-flex flex-justify-between">
                 <div class="text-mono text-small mb-3 text-bold flex-auto min-width-0">
                     <p>You can read more <span class="color-text-tertiary"> about me </span>
@@ -21,9 +24,6 @@ Here are some ideas to get you started:
                     <p>
                 </div>
             </div>
-            <blockquote>
-            <p>Wubba Lubba Dub Dub!</p>
-            </blockquote>
             <article class="markdown-body entry-content container-lg f5" itemprop="text">
                 <div class="Box pinned-item-list-item d-flex p-3 width-full public source">
                     <div class="pinned-item-list-item-content">
