@@ -16,7 +16,6 @@ Here are some ideas to get you started:
             <div class="d-flex flex-justify-between">
                 <div class="text-mono text-small mb-3 text-bold flex-auto min-width-0">
                     <p>### Hi there <span class="color-text-tertiary"> 👋 </span></p>
-                    <span class="color-text-tertiary d-inline-block" style="padding:0px 2px;">/</span>
                     <p><a href="https://VasilSlavchev.info" class="no-underline Link--primary">More about me</a><p>
                 </div>
             </div>
