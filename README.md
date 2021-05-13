@@ -42,10 +42,10 @@ Here are some ideas to get you started:
                             <a href="https://VasilSlavchev.info" class="no-underline Link--primary">here</a> :)
                         <p>
                         <p>
-                            🔭 I’m currently working on several different projects.
+                            I’m currently working on several different projects.
                         </p>
                         <p>
-                            🌱 I’m currently learning amazing front-end frameworks.
+                            And learning amazing new front-end frameworks.
                         </p>
                     </div>
                 </div>
