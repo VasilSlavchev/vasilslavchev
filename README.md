@@ -27,11 +27,11 @@ Here are some ideas to get you started:
                 <div class="Box pinned-item-list-item d-flex p-3 width-full public source">
                     <div class="pinned-item-list-item-content">
                         <p class="pinned-item-desc color-text-secondary text-small d-block mt-2 mb-3">
-                            Most Used Languages
+                            VasilSlavchev GitHub Stats
                         </p>
                         <p class="mb-0 f6 color-text-secondary">
                             <a href="/VasilSlavchev/projects/stargazers" class="pinned-item-meta Link--muted ">
-                                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasilSlavchev&amp;layout=compact" alt="VasilSlavchev Most Used Languages">
+                                <img src="https://github-readme-stats.vercel.app/api?username=VasilSlavchev&amp;show_icons=true" alt="VasilSlavchev GitHub Stats">
                             </a>
                         </p>
                     </div>
@@ -39,11 +39,11 @@ Here are some ideas to get you started:
                 <div class="Box pinned-item-list-item d-flex p-3 width-full public source">
                     <div class="pinned-item-list-item-content">
                         <p class="pinned-item-desc color-text-secondary text-small d-block mt-2 mb-3">
-                            VasilSlavchev GitHub Stats
+                            Most Used Languages
                         </p>
                         <p class="mb-0 f6 color-text-secondary">
                             <a href="/VasilSlavchev/projects/stargazers" class="pinned-item-meta Link--muted ">
-                                <img src="https://github-readme-stats.vercel.app/api?username=VasilSlavchev&amp;show_icons=true" alt="VasilSlavchev GitHub Stats">
+                                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasilSlavchev&amp;layout=compact" alt="VasilSlavchev Most Used Languages">
                             </a>
                         </p>
                     </div>
