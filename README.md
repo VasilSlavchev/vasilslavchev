@@ -10,13 +10,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
 <div class="position-relative">
     <div class="Box mt-4">
         <div class="Box-body p-4">
             <div class="d-flex flex-justify-between">
                 <div class="text-mono text-small mb-3 text-bold flex-auto min-width-0">
-                    <p>### Hi there <span class="color-text-tertiary"> 👋 </span></p>
-                    <p><a href="https://VasilSlavchev.info" class="no-underline Link--primary">More about me</a><p>
+                    <p>You can read more about me<span class="color-text-tertiary"> 👋 </span></p>
+                    <p><a href="https://VasilSlavchev.info" class="no-underline Link--primary">here</a>.<p>
                 </div>
             </div>
             <blockquote>
