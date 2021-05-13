@@ -10,8 +10,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
-
 <div class="position-relative">
     <div class="Box mt-4">
         <div class="Box-body p-4">
@@ -21,6 +19,7 @@ Here are some ideas to get you started:
                         <img src="https://github-readme-stats.vercel.app/api?username=VasilSlavchev&amp;show_icons=true" alt="VasilSlavchev GitHub Stats" align="right">
                     </a>
                 </p>
+                ### Hi there 👋
                 <!-- 
                 <div class="pinned-item-list-item-content">
                     <p class="pinned-item-desc color-text-secondary text-small d-block mt-2 mb-3">
