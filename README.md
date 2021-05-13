@@ -10,23 +10,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
+
 <div class="position-relative">
     <div class="Box mt-4">
         <div class="Box-body p-4">
             <article class="markdown-body entry-content container-lg f5" itemprop="text">
                 <p class="mb-0 f6 color-text-secondary">
-                    <a href="/VasilSlavchev/projects/stargazers" class="pinned-item-meta Link--muted ">
+                    <a href="/VasilSlavchev/VasilSlavchev" class="pinned-item-meta Link--muted ">
                         <img src="https://github-readme-stats.vercel.app/api?username=VasilSlavchev&amp;show_icons=true" alt="VasilSlavchev GitHub Stats" align="right">
                     </a>
                 </p>
-                ### Hi there 👋
                 <!-- 
                 <div class="pinned-item-list-item-content">
                     <p class="pinned-item-desc color-text-secondary text-small d-block mt-2 mb-3">
                         Most Used Languages
                     </p>
                     <p class="mb-0 f6 color-text-secondary">
-                        <a href="/VasilSlavchev/projects/stargazers" class="pinned-item-meta Link--muted ">
+                        <a href="/VasilSlavchev/VasilSlavchev" class="pinned-item-meta Link--muted ">
                             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasilSlavchev&amp;layout=compact" alt="VasilSlavchev Most Used Languages">
                         </a>
                     </p> 
