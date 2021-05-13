@@ -15,12 +15,11 @@ Here are some ideas to get you started:
         <div class="Box-body p-4">
             <div class="d-flex flex-justify-between">
                 <div class="text-mono text-small mb-3 text-bold flex-auto min-width-0">
-                    <a href="/VasilSlavchev/VasilSlavchev" class="no-underline Link--primary">VasilSlavchev</a>
+                    <a href="https://VasilSlavchev.info" class="no-underline Link--primary">More about me</a>
                     <span class="color-text-tertiary d-inline-block" style="padding:0px 2px;">/
-                    </span>README<span class="color-text-tertiary">.md</span>
+                    </span> ### Hi there <span class="color-text-tertiary"> 👋 </span>
                 </div>
             </div>
-            ### Hi there 👋
             <blockquote>
             <p>Wubba Lubba Dub Dub!</p>
             </blockquote>
