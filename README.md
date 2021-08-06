@@ -21,7 +21,8 @@ Here are some ideas to get you started:
                         <img src="https://github-readme-stats.vercel.app/api?username=VasilSlavchev&show_icons=true" alt="VasilSlavchev GitHub Stats" align="right">
                     </a>
                 </p>
-                <!-- -->
+                <!-- Most Used Languages -->
+                <!--
                 <div class="pinned-item-list-item-content">
                     <p class="pinned-item-desc color-text-secondary text-small d-block mt-2 mb-3">
                         Most Used Languages
@@ -32,7 +33,8 @@ Here are some ideas to get you started:
                         </a>
                     </p> 
                 </div>
-                <!-- -->
+                -->
+                <!-- Most Used Languages -->
                 <blockquote>
                 <p>Wubba Lubba Dub Dub!</p>
                 </blockquote>
