@@ -19,8 +19,12 @@ Here are some ideas to get you started:
                 <div class="pinned-item-list-item-content">
                     <p class="mb-0 f6 color-text-secondary">
                         <a href="https://VasilSlavchev.info" class="pinned-item-meta Link--muted">
-                            <img src="https://github-readme-stats.vercel.app/api?username=VasilSlavchev&show_icons=true" alt="VasilSlavchev GitHub Stats" align="right" style="width: 50%;">
+                            <img src="https://github-readme-stats.vercel.app/api?username=VasilSlavchev&show_icons=true" 
+                                 alt="VasilSlavchev GitHub Stats" align="right" style="width: 50%;">
                         </a>
+                        
+                        [![Vaseto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VasilSlavchev)](https://VasilSlavchev.info)
+
                     </p>
                 </div>
                 <!-- Most Used Languages -->
