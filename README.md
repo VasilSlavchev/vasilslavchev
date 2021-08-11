@@ -22,10 +22,10 @@ Here are some ideas to get you started:
                             <img src="https://github-readme-stats.vercel.app/api?username=VasilSlavchev&show_icons=true" 
                                  alt="VasilSlavchev GitHub Stats" align="right" style="width: 50%;">
                         </a>
-                        <a href="https://VasilSlavchev.info" class="pinned-item-meta Link--muted">
+                        <!-- <a href="https://VasilSlavchev.info" class="pinned-item-meta Link--muted">
                             <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VasilSlavchev" 
                                  alt="VasilSlavchev Wakatime Stats" align="right" style="width: 50%;">
-                        </a>
+                        </a> -->
                     </p>
                 </div>
                 <!-- Most Used Languages -->
