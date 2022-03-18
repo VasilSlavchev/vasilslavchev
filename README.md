@@ -47,6 +47,9 @@ Here are some ideas to get you started:
                 </blockquote>
                 <div class="d-flex flex-justify-between">
                     <div class="text-mono text-small mb-3 text-bold flex-auto min-width-0">
+                        <p>Click <span class="color-text-tertiary"> me </span>
+                            <a href="https://vasilslavchev.github.io/" class="no-underline Link--primary">if you can</a> ;d
+                        <p>
                         <p>You can read more <span class="color-text-tertiary"> about me </span>
                             <a href="https://VasilSlavchev.info" class="no-underline Link--primary">here</a> :)
                         <p>
