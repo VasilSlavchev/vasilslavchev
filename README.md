@@ -20,12 +20,14 @@ Here are some ideas to get you started:
                     <p class="pinned-item-desc color-text-secondary text-small d-block mt-2 mb-3">
                         I’m currently working on several different projects.
                     </p>
+                    <!-- 
                     <p class="mb-0 f6 color-text-secondary">
                         <a href="https://VasilSlavchev.info" class="pinned-item-meta Link--muted">
                             <img src="https://github-readme-stats.vercel.app/api?username=VasilSlavchev&show_icons=true" 
                                  alt="VasilSlavchev GitHub Stats" align="right" style="width: 50%;">
                         </a>
                     </p>
+                    -->
                 </div>
                 <div class="pinned-item-list-item-content">
                     <p class="pinned-item-desc color-text-secondary text-small d-block mt-2 mb-3">
