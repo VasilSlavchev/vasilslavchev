@@ -42,17 +42,8 @@ Here are some ideas to get you started:
                 </div>
                 -->
                 <!-- Most Used Languages -->
-                <blockquote>
-                <p>Wubba Lubba Dub Dub!</p>
-                </blockquote>
                 <div class="d-flex flex-justify-between">
                     <div class="text-mono text-small mb-3 text-bold flex-auto min-width-0">
-                        <p> <span class="color-text-tertiary">Click</span>
-                            <a href="https://vasilslavchev.github.io/click_me.html" class="no-underline Link--primary"> ME XD </a> if you can ;d
-                        <p>
-                        <p>You can read more <span class="color-text-tertiary"> about me </span>
-                            <a href="https://VasilSlavchev.info" class="no-underline Link--primary">here</a> :)
-                        <p>
                         <p>
                             I’m currently working on several different projects.
                         </p>
