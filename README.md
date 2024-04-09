@@ -17,11 +17,8 @@ Here are some ideas to get you started:
         <div class="Box-body p-4">
             <article class="markdown-body entry-content container-lg f5" itemprop="text">
                 <div class="pinned-item-list-item-content">
-                    <p>
+                    <p class="pinned-item-desc color-text-secondary text-small d-block mt-2 mb-3">
                         I’m currently working on several different projects.
-                    </p>
-                    <p>
-                        And learning amazing new front-end frameworks.
                     </p>
                     <p class="mb-0 f6 color-text-secondary">
                         <a href="https://VasilSlavchev.info" class="pinned-item-meta Link--muted">
@@ -32,7 +29,7 @@ Here are some ideas to get you started:
                 </div>
                 <div class="pinned-item-list-item-content">
                     <p class="pinned-item-desc color-text-secondary text-small d-block mt-2 mb-3">
-                        Most Used Languages
+                        And learning amazing new front-end frameworks.
                     </p>
                     <p class="mb-0 f6 color-text-secondary">
                         <a href="https://VasilSlavchev.info" class="pinned-item-meta Link--muted">
@@ -40,7 +37,7 @@ Here are some ideas to get you started:
                         </a>
                     </p> 
                 </div>
-                <!-- Most Used Languages -->
+                <!-- 
                 <div class="d-flex flex-justify-between">
                     <div class="text-mono text-small mb-3 text-bold flex-auto min-width-0">
                         <a href="https://VasilSlavchev.info" class="pinned-item-meta Link--muted">
@@ -49,6 +46,7 @@ Here are some ideas to get you started:
                         </a>
                     </div>
                 </div>
+                 -->
             </article>
         </div>
     </div>
