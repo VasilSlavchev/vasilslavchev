@@ -26,7 +26,7 @@ Here are some ideas to get you started:
                     <!-- 
                     <p class="mb-0 f6 color-text-secondary">
                         <a href="https://VasilSlavchev.info" class="pinned-item-meta Link--muted">
-                            <img src="https://github-readme-stats.vercel.app/api?username=VasilSlavchev&show_icons=true" 
+                            <img src="https://github-readme-stats.vercel.app/api?username=VasilSlavchev&show_icons=true&cache_seconds=1000" 
                                  alt="VasilSlavchev GitHub Stats" align="right" style="width: 50%;">
                         </a>
                     </p>
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
                 <div class="pinned-item-list-item-content">
                     <p class="mb-0 f6 color-text-secondary">
                         <a href="https://VasilSlavchev.info" class="pinned-item-meta Link--muted">
-                            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasilSlavchev&layout=compact" alt="VasilSlavchev Most Used Languages">
+                            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasilSlavchev&layout=compact&cache_seconds=1000" alt="VasilSlavchev Most Used Languages">
                         </a>
                     </p> 
                 </div>
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
                 <div class="d-flex flex-justify-between">
                     <div class="text-mono text-small mb-3 text-bold flex-auto min-width-0">
                         <a href="https://VasilSlavchev.info" class="pinned-item-meta Link--muted">
-                            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VasilSlavchev" 
+                            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VasilSlavchev&cache_seconds=1000" 
                                  alt="VasilSlavchev Wakatime Stats" align="right" style="width: 50%;">
                         </a>
                     </div>
